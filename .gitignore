@@ -1,0 +1,5 @@
+.claude/
+__pycache__/
+*.pyc
+header_rapport_*.txt
+whois_rapport_*.txt

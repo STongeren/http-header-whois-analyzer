@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(Remove-Item \"c:\\\\xampp\\\\htdocs\\\\W2_HEADERS_WHOIS_API\\\\whois_vanguard \\(1\\).py\" -ErrorAction Stop)",
-      "Bash(Remove-Item \"c:\\\\xampp\\\\htdocs\\\\W2_HEADERS_WHOIS_API\\\\header_v2 \\(1\\).py\" -ErrorAction Stop)"
-    ]
-  }
-}
